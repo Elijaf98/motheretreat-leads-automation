@@ -59,7 +59,7 @@
 - 💻 **Код и деплой:** [`/apps-script`](apps-script/)
 
 ### 🎥 Видео-демо
-_Ссылка на видео будет добавлена._ <!-- TODO: вставить ссылку на видео -->
+▶️ https://drive.google.com/file/d/1ztLGXakC2YIDnPHpngCQ2FWM2w6cNc3D/view?usp=sharing
 
 ---
 
