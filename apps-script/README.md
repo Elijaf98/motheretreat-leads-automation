@@ -12,6 +12,12 @@
                   🚨 Slack + @channel (+ опц. Telegram)                                    📝 Slack без пинга (+ опц. Telegram)
 ```
 
+## Демо
+- 📝 Форма: https://docs.google.com/forms/d/e/1FAIpQLSc85V4ncm0EpBds4y3GF5Uxj1kNG0b1-cn2IUOlUsk55FU2AA/viewform
+- 📊 Таблица ответов: https://docs.google.com/spreadsheets/d/1kqDcnWBWBtwdsK2yvV1qdv9tMI03ZomkVW4s9cx2OGo/edit
+
+> Запись в таблицу делает сама связка «форма → таблица» (через `setDestination` в `setup()`). Скрипт читает заявку и шлёт в Slack.
+
 ## Файлы
 - `Code.gs` — вся логика: `onFormSubmit`, отправка в Slack/Telegram, `setup()`, тесты
 - `appsscript.json` — манифест (таймзона, движок V8)
