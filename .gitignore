@@ -1,0 +1,14 @@
+# clasp (локальные настройки/креды)
+.clasp.json
+.clasprc.json
+
+# секреты — на всякий случай, в репозиторий не должны попадать
+.env
+.env.*
+*secret*
+*webhook*
+
+# системное
+node_modules/
+.DS_Store
+Thumbs.db
